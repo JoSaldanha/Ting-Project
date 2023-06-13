@@ -19,6 +19,7 @@ def process(path_file, instance):
     
     return instance
 
+
 def remove(instance):
     """Aqui irá sua implementação"""
 
